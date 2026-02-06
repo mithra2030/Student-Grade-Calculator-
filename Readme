@@ -1,0 +1,32 @@
+# Task 2 – Student Grade Calculation 🎓
+
+## Description
+This project is a Java console application that calculates
+the total marks, average, and grade of a student based on
+the marks obtained in three subjects.
+
+## Features
+- Accepts student name and marks
+- Calculates total and average
+- Displays grade using conditional statements
+- Simple and user-friendly output
+
+## Technologies Used
+- Java
+- VS Code
+
+## How to Run
+1. Compile the program:
+   javac StudentGrade.java
+2. Run the program:
+   java StudentGrade
+
+## Grade Criteria
+- A+ : Average ≥ 90
+- A  : Average ≥ 75
+- B  : Average ≥ 60
+- C  : Average ≥ 50
+- Fail : Average < 50
+
+## Author
+Mithra
